@@ -1,32 +1,57 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
 </div>
 
 ---
 
-# <p align="left">Hi <img align="center" width="35" src="https://raw.githubusercontent.com/devpolas/my-links/refs/heads/main/giphy.gif" /> I'm Polas Chandra Barmon</p>
+# <p align="center">Hi <img align="center" width="35" src="https://raw.githubusercontent.com/devpolas/my-links/refs/heads/main/giphy.gif" /> I'm Polas Chandra Barmon </p>
+
+<div align="center">
+  <a href="mailto:dpi.polas@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=plastic"
+         height="30" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/lipcb" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=plastic"
+         height="30" alt="linkedin logo" />
+  </a>
+  <a href="https://x.com/XTWPCB" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=plastic"
+         height="30" alt="twitter logo" />
+  </a>
+  <a href="https://www.facebook.com/fbpcb" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=plastic"
+         height="30" alt="facebook logo" />
+  </a>
+  <a href="https://wa.me/+8801732333951" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=plastic"
+         height="30" alt="whatsapp logo" />
+  </a>
+</div>
 
 <img align="right" height="200" src="https://raw.githubusercontent.com/devpolas/my-links/refs/heads/main/Right_Side.gif"  />
 
 ###
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer!;MERN+Stack+Web+Developer!;Build+Rest+API'S!;Real+World+Authentication!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer!;MERN+Stack+Web+Developer!;Build+Rest+API'S!;Real+World+Authentication!&font=Fira%20Code&center=true&width=380&height=56&duration=4000&pause=1000" alt="README Typing SVG">
 </p>
-
+  
 ###
 
+> **Full Stack Web Developer | React, Next.js, Node.js | REST & GraphQL**
+>
+> > _**I stay curious and committed, continuously learning new technologies to build meaningful, reliable, and innovative solutions.**_
+>
+> > > _**Focusing on growth and embracing new tools allows me to evolve as a developer while creating technology that truly serves people.**_
+
 ###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
 
 <p>
   <img src="https://raw.githubusercontent.com/devpolas/my-links/refs/heads/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
+
+# <p><img align="center" width="50" src="https://raw.githubusercontent.com/devpolas/my-links/refs/heads/main/giphy1.gif" /> My Tech Stacks</p>
 
 ## <p><img align="center" width="50" src="https://raw.githubusercontent.com/devpolas/my-links/refs/heads/main/Front_End.gif" /> Frontend Technology</p>
 
@@ -51,7 +76,7 @@
 
 ---
 
-## ⚙️ Backend Technology
+## <p><img align="center" width="30" src="https://raw.githubusercontent.com/devpolas/my-links/refs/heads/main/backend.gif" /> Backend Technology</p>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -100,18 +125,48 @@
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
+---
+
+## 🔧 OS
+
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 <p>
 <img src="https://raw.githubusercontent.com/devpolas/my-links/refs/heads/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
 
-# 📊 GitHub Stats:
+## <p><img align="center" width="30" src="https://raw.githubusercontent.com/devpolas/my-links/refs/heads/main/giphy3.gif" /> GitHub Stats</p>
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devpolas&theme=algolia)
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devpolas&layout=compact&theme=algolia" 
+    width="42%" 
+  />
+  <img 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=devpolas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" 
+    width="50%" 
+  />
+</div>
+
+<div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=ok&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ok&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ok&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+</div>
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
+
+<p>
+<img src="https://raw.githubusercontent.com/devpolas/my-links/refs/heads/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</p>
 
 ###
