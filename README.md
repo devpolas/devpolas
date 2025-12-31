@@ -6,9 +6,10 @@
 
 ---
 
-# <p align="center">Hi <img align="center" width="35" src="https://raw.githubusercontent.com/devpolas/my-links/refs/heads/main/giphy.gif" /> I'm Polas Chandra Barmon </p>
+# <p align="center">Hi <img align="center" width="40" src="https://raw.githubusercontent.com/devpolas/my-links/refs/heads/main/hi.gif" /> I'm Polas Chandra Barmon</p>
 
 <div align="center">
+
   <a href="mailto:dpi.polas@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=plastic"
          height="30" alt="gmail logo" />
