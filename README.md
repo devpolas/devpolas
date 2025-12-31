@@ -88,7 +88,7 @@
 
 ---
 
-## 🗞️ Database & ORM
+## <p><img align="center" width="30" src="https://raw.githubusercontent.com/devpolas/my-links/refs/heads/main/database.webp" /> Database & ORM</p>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
@@ -100,7 +100,7 @@
 
 ---
 
-## ☁️ DevOps & Cloud
+## <p><img align="center" width="30" src="https://raw.githubusercontent.com/devpolas/my-links/refs/heads/main/cloud.webp" /> DevOps & Cloud</p>
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
@@ -109,7 +109,7 @@
 
 ---
 
-## 🔧 Tools & Package Managers
+## <p><img align="center" width="30" src="https://raw.githubusercontent.com/devpolas/my-links/refs/heads/main/tools.webp" /> Tools & Package Managers</p>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -121,7 +121,7 @@
 
 ---
 
-## 🧱 Design & Documentation
+## <p><img align="center" width="30" src="https://raw.githubusercontent.com/devpolas/my-links/refs/heads/main/design.webp" /> Design & Documentation</p>
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
@@ -129,7 +129,7 @@
 
 ---
 
-## 🔧 OS
+## <p><img align="center" width="30" src="https://raw.githubusercontent.com/devpolas/my-links/refs/heads/main/os.gif" /> OS</p>
 
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -142,7 +142,11 @@
 
 ## <p><img align="center" width="30" src="https://raw.githubusercontent.com/devpolas/my-links/refs/heads/main/giphy3.gif" /> GitHub Stats</p>
 
+<div align="center">
+
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devpolas&theme=algolia)
+
+</div>
 
 <div align="center">
   <img 
