@@ -42,7 +42,7 @@
   
 ###
 
-> **Full Stack Web Developer | React, Next.js, Node.js | REST & GraphQL**
+> **Full Stack Web Developer | React, Next.js, Node.js, Typescript | REST & GraphQL**
 >
 > > _**I stay curious and committed, continuously learning new technologies to build meaningful, reliable, and innovative solutions.**_
 >
