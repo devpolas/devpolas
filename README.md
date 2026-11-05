@@ -1,147 +1,352 @@
-<div>
-  <img style="width:100%; height:auto;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
-</div>
+<div align="center">
 
-<img style="width:100%; height:auto;" src="https://raw.githubusercontent.com/devpolas/my-links/refs/heads/main/mern.png" />
+<img style="width:100%; height:auto;" src="https://raw.githubusercontent.com/devpolas/my-links/refs/heads/main/readme-hero.jpeg" />
 
 ---
 
-# <p align="center">Hi <img align="center" width="40" src="https://raw.githubusercontent.com/devpolas/my-links/refs/heads/main/hi.gif" /> I'm Polas Chandra Barmon</p>
+# Hi, I'm Polas Chandra Barmon 👋
+
+### Full-Stack + AI Engineer
+
+<img
+src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=17&duration=3500&pause=1000&center=true&vCenter=true&width=720&height=45&lines=Building+Modern+Web+Applications;Engineering+Reliable+Backend+Systems;Developing+AI-Powered+Applications;Building+RAG+%26+Agentic+AI+Systems;Learn+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Ship"
+alt="Typing animation"
+/>
+
+<br />
+
+<a href="mailto:dpi.polas@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/devpolas">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/lipcb">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://x.com/XTWPCB">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Full-Stack + AI Engineer** focused on building modern, reliable, and useful software.
+
+My work spans the complete development lifecycle:
+
+> **Frontend → Backend → APIs → Databases → Authentication → Payments → AI → Testing → Deployment**
+
+I enjoy understanding how technologies work together rather than learning them in isolation.
+
+My current engineering direction combines **full-stack development with AI application development**, including LLM applications, RAG, embeddings, vector search, AI agents, tool calling, and workflow automation.
+
+> **Build useful things. Understand the fundamentals. Keep improving.**
+
+---
+
+# 🚀 What I Do
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 🌐 Full-Stack
+
+Modern web applications, responsive interfaces, reusable components, state management, type-safe development, and application architecture.
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚙️ Backend
+
+APIs, authentication, authorization, validation, databases, caching, payments, email, webhooks, integrations, and server-side systems.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🤖 AI Engineering
+
+LLM applications, RAG, embeddings, vector search, AI agents, tool calling, agentic workflows, and AI-powered features.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🧩 Core Engineering Stack
+
+## 🎨 Frontend Engineering
+
+> ### Core Technologies
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+> ### UI & Styling
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+
+> ### State, Data & Forms
+
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge)
+![TanStack Table](https://img.shields.io/badge/TanStack_Table-FF4154?style=for-the-badge)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge)
+
+> ### Motion & Visualization
+
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=000000)
+![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge)
+![React Leaflet](https://img.shields.io/badge/React_Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+
+---
+
+# ⚙️ Backend Engineering
+
+> ### JavaScript / TypeScript
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+> ### Python
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+> ### API Engineering
+
+`REST APIs` · `GraphQL` · `API Design` · `Middleware` · `Validation` · `Error Handling` · `Webhooks` · `Caching` · `Third-Party APIs`
+
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-22B573?style=for-the-badge)
+
+---
+
+# 🗄️ Data & Databases
+
+> ### Relational
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+> ### NoSQL & In-Memory
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+> ### ORM & ODM
+
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
+> ### Backend Platforms
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000)
+
+---
+
+# 🤖 AI & LLM Engineering
 
 <div align="center">
 
-  <a href="mailto:dpi.polas@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=plastic"
-         height="30" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/lipcb" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=plastic"
-         height="30" alt="linkedin logo" />
-  </a>
-  <a href="https://x.com/XTWPCB" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=plastic"
-         height="30" alt="twitter logo" />
-  </a>
-  <a href="https://www.facebook.com/fbpcb" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=plastic"
-         height="30" alt="facebook logo" />
-  </a>
-  <a href="https://wa.me/+8801732333951" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=plastic"
-         height="30" alt="whatsapp logo" />
-  </a>
+### Building intelligent features on top of modern software systems
+
 </div>
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/devpolas/my-links/refs/heads/main/Right_Side.gif"  />
+| Area                      | Focus                                                   |
+| ------------------------- | ------------------------------------------------------- |
+| 🧠 **LLM Applications**   | Integrating language models into useful applications    |
+| 🔎 **RAG**                | Retrieval-Augmented Generation and contextual responses |
+| 🧬 **Embeddings**         | Semantic representations for retrieval and search       |
+| 🔍 **Vector Search**      | Similarity and semantic retrieval                       |
+| 🤖 **AI Agents**          | Agentic workflows and intelligent task execution        |
+| 🔧 **Tool Calling**       | Connecting models with APIs, databases, and tools       |
+| 🧠 **AI-Assisted Coding** | Using AI to improve development workflows               |
+| 🏗️ **AI Engineering**     | Designing practical AI-enabled software systems         |
 
-###
+> ### AI Technologies
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer!;MERN+Stack+Web+Developer!;Build+Rest+API'S!;Real+World+Authentication!&font=Fira%20Code&center=true&width=380&height=56&duration=4000&pause=1000" alt="README Typing SVG">
-</p>
-  
-###
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 
-> **Full Stack Web Developer | React, Next.js, Node.js, Typescript | REST & GraphQL**
->
-> > _**I stay curious and committed, continuously learning new technologies to build meaningful, reliable, and innovative solutions.**_
->
-> > > _**Focusing on growth and embracing new tools allows me to evolve as a developer while creating technology that truly serves people.**_
-
-###
-
-<p>
-  <img src="https://raw.githubusercontent.com/devpolas/my-links/refs/heads/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</p>
-
-# <p><img align="center" width="50" src="https://raw.githubusercontent.com/devpolas/my-links/refs/heads/main/giphy1.gif" /> My Tech Stacks</p>
-
-## <p><img align="center" width="50" src="https://raw.githubusercontent.com/devpolas/my-links/refs/heads/main/Front_End.gif" /> Frontend Technology</p>
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Context API](https://img.shields.io/badge/Context--API-000000?style=for-the-badge&logo=react)
+`LLM Application Development` · `RAG` · `Embeddings` · `Vector Search` · `AI Agents` · `Agentic AI` · `Tool Calling`
 
 ---
 
-## <p><img align="center" width="30" src="https://raw.githubusercontent.com/devpolas/my-links/refs/heads/main/backend.gif" /> Backend Technology</p>
+# 🧬 Vector & Retrieval Engineering
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge)
+Vector technologies are treated separately from traditional databases because they support a different class of AI and retrieval workloads.
 
----
+> ### Core Concepts
 
-## <p><img align="center" width="30" src="https://raw.githubusercontent.com/devpolas/my-links/refs/heads/main/database.webp" /> Database & ORM</p>
+`Embeddings` · `Chunking` · `Semantic Search` · `Similarity Search` · `Retrieval` · `Metadata Filtering` · `RAG Pipelines`
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+> ### Vector Database Ecosystem
+
+`pgvector` · `Pinecone` · `Qdrant` · `Weaviate` · `Chroma` · `Milvus`
 
 ---
 
-## <p><img align="center" width="30" src="https://raw.githubusercontent.com/devpolas/my-links/refs/heads/main/cloud.webp" /> DevOps & Cloud</p>
+# 🔄 Automation & AI Workflows
 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
----
+`Workflow Automation` · `API Integrations` · `Webhooks` · `Event-Driven Workflows` · `AI Workflows` · `Automation`
 
-## <p><img align="center" width="30" src="https://raw.githubusercontent.com/devpolas/my-links/refs/heads/main/tools.webp" /> Tools & Package Managers</p>
+> ### AI + Automation
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
-
----
-
-## <p><img align="center" width="30" src="https://raw.githubusercontent.com/devpolas/my-links/refs/heads/main/design.webp" /> Design & Documentation</p>
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+```text
+LLM
+ ↓
+Tool Calling
+ ↓
+n8n
+ ↓
+APIs / Databases / Services
+ ↓
+Automated Workflow
+```
 
 ---
 
-## <p><img align="center" width="30" src="https://raw.githubusercontent.com/devpolas/my-links/refs/heads/main/os.gif" /> OS</p>
+# 🔐 Authentication & Security
 
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Better Auth](https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge)
+![Auth.js](https://img.shields.io/badge/Auth.js-000000?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge)
 
-<p>
-<img src="https://raw.githubusercontent.com/devpolas/my-links/refs/heads/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</p>
+`Authentication` · `Authorization` · `OAuth` · `JWT` · `Sessions` · `Cookies` · `Protected Routes` · `Role-Based Access`
 
-## <p><img align="center" width="30" src="https://raw.githubusercontent.com/devpolas/my-links/refs/heads/main/giphy3.gif" /> GitHub Stats</p>
+---
+
+# 💳 Payments & Integrations
+
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![SSLCommerz](https://img.shields.io/badge/SSLCommerz-00AEEF?style=for-the-badge)
+
+### Integration Experience
+
+`Stripe Payments` · `SSLCommerz` · `Payment APIs` · `Webhooks` · `Email Services` · `OAuth` · `Third-Party APIs`
+
+---
+
+# 🧪 Testing & Quality Engineering
+
+Testing is part of the engineering workflow — from individual functions and components to APIs and complete user flows.
+
+### Testing Stack
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-000000?style=for-the-badge)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+> ### Testing Areas
+
+`Unit Testing` · `Component Testing` · `Integration Testing` · `API Testing` · `End-to-End Testing` · `Test Automation`
+
+---
+
+# 🐳 DevOps & Deployment
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+`Docker` · `Containerization` · `Nginx` · `Reverse Proxy` · `Linux` · `Environment Configuration` · `Deployment`
+
+---
+
+# 🧱 Engineering Practices
+
+<div align="center">
+
+**Type Safety** · **API Design** · **Validation** · **Authentication** · **Testing** · **Caching** · **Error Handling**
+
+**Webhooks** · **Third-Party Integrations** · **Containerization** · **CI/CD** · **Deployment** · **AI Integration**
+
+</div>
+
+---
+
+# 🖥️ Operating Systems
+
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
+
+---
+
+# 🧭 Exploring & Expanding
+
+I'm continuously exploring technologies that improve **AI systems, automation, cloud infrastructure, reliability, and production engineering**.
+
+> ### AI Systems
+
+`MCP` · `AI Evaluation` · `AI Observability` · `Advanced Agent Architectures`
+
+> ### Infrastructure
+
+`GitHub Actions` · `AWS` · `Production Observability` · `Vector Infrastructure`
+
+---
+
+# 🧠 Engineering Mindset
+
+<div align="center">
+
+> ### Learn → Understand → Build → Test → Ship → Improve
+
+</div>
+
+I don't learn technologies simply to collect them.
+
+I focus on understanding:
+
+- **Why** a technology exists
+- **What** problem it solves
+- **When** it should be used
+- **How** it fits into a larger architecture
+- **How** systems communicate
+- **How** software can become more reliable and maintainable
+
+> **Technology changes quickly. Engineering fundamentals don't.**
+
+---
+
+# 📊 GitHub
+
+<div align="center">
 
 <div align="center">
 
@@ -160,12 +365,56 @@
   />
 </div>
 
-<div >
-  <img style="width:100%; height:auto;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+<br />
+
+<div align="center">
+
+<a href="https://github.com/devpolas">
+  <img
+    src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub Profile"
+  />
+</a>
+
+<a href="https://github.com/devpolas?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="Repositories"
+  />
+</a>
+
 </div>
 
-<p>
-<img src="https://raw.githubusercontent.com/devpolas/my-links/refs/heads/main/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</p>
+---
 
-###
+# 🤝 Let's Connect
+
+<div align="center">
+
+### Have an idea, product, or problem to solve?
+
+### Let's build something useful.
+
+<br />
+
+<a href="mailto:dpi.polas@gmail.com">
+  <img src="https://img.shields.io/badge/Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's Talk" />
+</a>
+
+<a href="https://github.com/devpolas">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://www.linkedin.com/in/lipcb">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+**Build with purpose · Learn continuously · Ship thoughtfully**
+
+</div>
